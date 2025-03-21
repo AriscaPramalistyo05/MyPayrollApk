@@ -25,7 +25,7 @@ Aplikasi ini memungkinkan pengguna untuk:
 
 - **Android Studio**: IDE untuk pengembangan aplikasi Android.
 - **SQLite**: Database ringan untuk menyimpan data lokal.
-- **Java/Kotlin**: Bahasa pemrograman untuk pengembangan aplikasi Android.
+- **Java**: Bahasa pemrograman untuk pengembangan aplikasi Android.
 
 ## Struktur Proyek
 
